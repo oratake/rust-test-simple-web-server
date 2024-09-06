@@ -1,0 +1,9 @@
+[package]
+name = "graphql-web-server"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1"
+rocket = "0.5"
+async-graphql = "7"
